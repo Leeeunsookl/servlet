@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="chap04-request-lecture-source" target="11" />
+      <module name="chap04-request-lecture-source.main" target="11" />
+      <module name="chap04-request-lecture-source.test" target="11" />
+      <module name="chap05-response-lecture-source" target="11" />
+      <module name="chap05-response-lecture-source.main" target="11" />
+      <module name="chap05-response-lecture-source.test" target="11" />
+      <module name="chap06-exception-handler-lecture-source" target="11" />
+      <module name="chap06-exception-handler-lecture-source.main" target="11" />
+      <module name="chap06-exception-handler-lecture-source.test" target="11" />
+      <module name="chap07-forward-lecture-source" target="11" />
+      <module name="chap07-forward-lecture-source.main" target="11" />
+      <module name="chap07-forward-lecture-source.test" target="11" />
+      <module name="chap08-redirect-lecture-source" target="11" />
+      <module name="chap08-redirect-lecture-source.main" target="11" />
+      <module name="chap08-redirect-lecture-source.test" target="11" />
+      <module name="chap09-cookie-lecture-source" target="11" />
+      <module name="chap09-cookie-lecture-source.main" target="11" />
+      <module name="chap09-cookie-lecture-source.test" target="11" />
+      <module name="chap10-session-lecture-source" target="11" />
+      <module name="chap10-session-lecture-source.main" target="11" />
+      <module name="chap10-session-lecture-source.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

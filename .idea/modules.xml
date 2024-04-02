@@ -3,6 +3,27 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/08_servlet.iml" filepath="$PROJECT_DIR$/.idea/08_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap04-request-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap04-request-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap04-request-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap04-request-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap04-request-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap04-request-lecture-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap05-response-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap05-response-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap05-response-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap05-response-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap05-response-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap05-response-lecture-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap06-exception-handler-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap06-exception-handler-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap06-exception-handler-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap06-exception-handler-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap06-exception-handler-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap06-exception-handler-lecture-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap07-forward-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap07-forward-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap07-forward-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap07-forward-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap07-forward-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap07-forward-lecture-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap08-redirect-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap08-redirect-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap08-redirect-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap08-redirect-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap08-redirect-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap08-redirect-lecture-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap09-cookie-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap09-cookie-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap09-cookie-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap09-cookie-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap09-cookie-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap09-cookie-lecture-source.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap10-session-lecture-source.iml" filepath="$PROJECT_DIR$/.idea/modules/chap10-session-lecture-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap10-session-lecture-source.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chap10-session-lecture-source.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chap10-session-lecture-source.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chap10-session-lecture-source.test.iml" />
     </modules>
   </component>
 </project>
